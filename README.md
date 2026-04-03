@@ -1,4 +1,4 @@
-# 📍 Consulta de CEP com Python
+',  # 📍 Consulta de CEP com Python
 
 Projeto desenvolvido em Python que realiza a **consulta de endereços a partir de um CEP**, utilizando integração com API externa. O sistema funciona via terminal (CLI) e retorna informações completas do endereço de forma rápida e prática.
 
